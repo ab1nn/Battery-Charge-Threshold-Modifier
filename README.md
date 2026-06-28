@@ -27,6 +27,6 @@ Now go on with your things.
 4. It will ask you for the new value. Give that.
 5. Done.!
 
-Thanks for reading.See you soon.🤘
+Thanks for reading.See you soon!
 
 I have not tested this on other devices. So feel free to report any issues.
